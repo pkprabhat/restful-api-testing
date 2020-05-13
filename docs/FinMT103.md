@@ -1,0 +1,30 @@
+# FinMT103
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**block1** | [**MTBlock1**](MTBlock1.md) |  |  [optional]
+**block2** | [**MTBlock2**](MTBlock2.md) |  |  [optional]
+**block2MessageType** | **String** |  |  [optional]
+**block3Tag108** | **String** |  |  [optional]
+**block3Tag121** | **String** |  |  [optional]
+**block4** | [**MT103Block4**](MT103Block4.md) |  |  [optional]
+**block5Chk** | **String** |  |  [optional]
+**block5Mac** | **String** |  |  [optional]
+**creationDate** | [**OffsetDateTime**](OffsetDateTime.md) |  |  [optional]
+**mt103Skey** | **Long** |  |  [optional]
+**mt103Tag23E** | [**List&lt;MT103Tag23E&gt;**](MT103Tag23E.md) |  |  [optional]
+**mt103Tag71F** | [**List&lt;MT103Tag71F&gt;**](MT103Tag71F.md) |  |  [optional]
+**tag13C** | [**List&lt;Tag13C&gt;**](Tag13C.md) |  |  [optional]
+**tag70To71** | [**Block4Tag70to71**](Block4Tag70to71.md) |  |  [optional]
+**tags50** | [**Block4Tag50**](Block4Tag50.md) |  |  [optional]
+**tags52** | [**Block4Tag52**](Block4Tag52.md) |  |  [optional]
+**tags53** | [**Block4Tag53**](Block4Tag53.md) |  |  [optional]
+**tags54** | [**Block4Tag54**](Block4Tag54.md) |  |  [optional]
+**tags55** | [**Block4Tag55**](Block4Tag55.md) |  |  [optional]
+**tags56** | [**Block4Tag56**](Block4Tag56.md) |  |  [optional]
+**tags57** | [**Block4Tag57**](Block4Tag57.md) |  |  [optional]
+**tags59** | [**Block4Tag59**](Block4Tag59.md) |  |  [optional]
+**tags72** | [**Block4Tag72**](Block4Tag72.md) |  |  [optional]
+**tags77** | [**Block4Tag77**](Block4Tag77.md) |  |  [optional]
+**trackerID** | **Long** |  |  [optional]
